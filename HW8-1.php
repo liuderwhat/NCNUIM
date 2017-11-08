@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8" />
-<title>投票結果</title>
+<title>投票結果媽的</title>
 <style type="text/css">
 body {width: 1004px; margin:10px auto;background-image:url(zed.jpg);background-repeat:no-repeat;}
 #content {color:#8100E0; font-family:微軟正黑體;font-weight:bold;border:4px solid #1212FF; padding:20px; line-height: 24pt; text-align:center;}
