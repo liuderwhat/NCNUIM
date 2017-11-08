@@ -1,0 +1,4 @@
+LeeSin,0
+Ashe,1
+Syndra,1
+Gragas,8
